@@ -36,6 +36,9 @@ ul {
   height: 1100px;
   float: right;
   background-color: pink;
+  margin: 5px;
+  border: 3px solid white;
+  padding: 5px;
 }
 
 .container {
@@ -44,6 +47,7 @@ ul {
 
 .images {
   height: 250px;
+  padding: 5px;
 }
 
 .images img {
